@@ -9,9 +9,14 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 ## The Checklist
 
 - [ ] Theorem Proving in Lean
-- - [ ] 2. Dependent Type Theory
-- - - [ ] 2.10. Exercises
+- - [x] 2. Dependent Type Theory
+- - - [x] 2.10. Exercises
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
-- - - - [ ] 4
+- - - - [x] 4
+- - [ ] 3. Propositions and Proofs
+- - - [ ] 3.7. Exercises
+- - - - [ ] 1
+- - - - [ ] 2
+- - - - [ ] 3
