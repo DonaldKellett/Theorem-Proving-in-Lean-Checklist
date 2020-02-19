@@ -12,6 +12,6 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - [ ] 2. Dependent Type Theory
 - - - [ ] 2.10. Exercises
 - - - - [x] 1
-- - - - [ ] 2
+- - - - [x] 2
 - - - - [ ] 3
 - - - - [ ] 4
