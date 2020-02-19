@@ -15,8 +15,17 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 2
 - - - - [x] 3
 - - - - [x] 4
-- - [ ] 3. Propositions and Proofs
-- - - [ ] 3.7. Exercises
+- - [x] 3. Propositions and Proofs
+- - - [x] 3.7. Exercises
 - - - - [x] 1
 - - - - [x] 2
+- - - - [x] 3
+- - [ ] 4. Quantifiers and Equality
+- - - [ ] 4.6 Exercises
+- - - - [ ] 1
+- - - - [ ] 2
 - - - - [ ] 3
+- - - - [ ] 4
+- - - - [ ] 5
+- - - - [ ] 6
+- - - - [ ] 7
