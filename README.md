@@ -11,7 +11,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - [ ] Theorem Proving in Lean
 - - [ ] 2. Dependent Type Theory
 - - - [ ] 2.10. Exercises
-- - - - [ ] 1
+- - - - [x] 1
 - - - - [ ] 2
 - - - - [ ] 3
 - - - - [ ] 4
