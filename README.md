@@ -17,6 +17,6 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 4
 - - [ ] 3. Propositions and Proofs
 - - - [ ] 3.7. Exercises
-- - - - [ ] 1
+- - - - [x] 1
 - - - - [ ] 2
 - - - - [ ] 3
