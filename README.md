@@ -23,7 +23,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - [ ] 4. Quantifiers and Equality
 - - - [ ] 4.6 Exercises
 - - - - [x] 1
-- - - - [ ] 2
+- - - - [x] 2
 - - - - [ ] 3
 - - - - [ ] 4
 - - - - [ ] 5
