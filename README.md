@@ -31,5 +31,5 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 7
 - - [ ] 5. Tactics
 - - - [ ] 5.8. Exercises
-- - - - [ ] 1
+- - - - [x] 1
 - - - - [ ] 2
