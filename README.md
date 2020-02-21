@@ -29,7 +29,14 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 5
 - - - - [x] 6
 - - - - [x] 7
-- - [ ] 5. Tactics
-- - - [ ] 5.8. Exercises
+- - [x] 5. Tactics
+- - - [x] 5.8. Exercises
 - - - - [x] 1
+- - - - [x] 2
+- - [ ] 7. Inductive Types
+- - - [ ] 7.10. Exercises
+- - - - [ ] 1
 - - - - [ ] 2
+- - - - [ ] 3
+- - - - [ ] 4
+- - - - [ ] 5
