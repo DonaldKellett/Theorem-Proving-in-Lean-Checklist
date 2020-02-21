@@ -20,12 +20,16 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
-- - [ ] 4. Quantifiers and Equality
-- - - [ ] 4.6 Exercises
+- - [x] 4. Quantifiers and Equality
+- - - [x] 4.6. Exercises
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
 - - - - [x] 4
 - - - - [x] 5
 - - - - [x] 6
-- - - - [ ] 7
+- - - - [x] 7
+- - [ ] 5. Tactics
+- - - [ ] 5.8. Exercises
+- - - - [ ] 1
+- - - - [ ] 2
