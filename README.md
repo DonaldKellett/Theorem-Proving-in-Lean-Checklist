@@ -36,7 +36,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - [ ] 7. Inductive Types
 - - - [ ] 7.10. Exercises
 - - - - [x] 1
-- - - - [ ] 2
+- - - - [x] 2
 - - - - [ ] 3
 - - - - [ ] 4
 - - - - [ ] 5
