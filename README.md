@@ -45,6 +45,6 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
-- - - - [ ] 4
+- - - - [x] 4
 - - - - [ ] 5
 - - - - [ ] 6
