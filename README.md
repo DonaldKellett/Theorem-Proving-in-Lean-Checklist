@@ -33,12 +33,12 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - [x] 5.8. Exercises
 - - - - [x] 1
 - - - - [x] 2
-- - [ ] 7. Inductive Types
-- - - [ ] 7.10. Exercises
+- - [x] 7. Inductive Types
+- - - [x] 7.10. Exercises
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
-- - - - [ ] 4
+- - - - [x] 4
 - - - - [x] 5
 - - [ ] 8. Induction and Recursion
 - - - [ ] 8.9. Exercises
