@@ -43,7 +43,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - [ ] 8. Induction and Recursion
 - - - [ ] 8.9. Exercises
 - - - - [x] 1
-- - - - [ ] 2
+- - - - [x] 2
 - - - - [ ] 3
 - - - - [ ] 4
 - - - - [ ] 5
