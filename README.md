@@ -44,7 +44,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - [ ] 8.9. Exercises
 - - - - [x] 1
 - - - - [x] 2
-- - - - [ ] 3
+- - - - [x] 3
 - - - - [ ] 4
 - - - - [ ] 5
 - - - - [ ] 6
