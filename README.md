@@ -8,7 +8,7 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 
 ## The Checklist
 
-- [ ] Theorem Proving in Lean
+- [x] Theorem Proving in Lean
 - - [x] 2. Dependent Type Theory
 - - - [x] 2.10. Exercises
 - - - - [x] 1
@@ -40,11 +40,11 @@ So as not to spoil the exercises for others trying to learn Lean through "Theore
 - - - - [x] 3
 - - - - [x] 4
 - - - - [x] 5
-- - [ ] 8. Induction and Recursion
-- - - [ ] 8.9. Exercises
+- - [x] 8. Induction and Recursion
+- - - [x] 8.9. Exercises
 - - - - [x] 1
 - - - - [x] 2
 - - - - [x] 3
 - - - - [x] 4
 - - - - [x] 5
-- - - - [ ] 6
+- - - - [x] 6
